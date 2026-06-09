@@ -1,0 +1,1 @@
+RIT capstone project analyzing global temperature extremes using Python, NOAA geospatial climate data, and extreme value distribution methods to evaluate climate variance and extreme temperature patterns.
